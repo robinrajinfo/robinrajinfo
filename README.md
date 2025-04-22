@@ -33,14 +33,33 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🎓 Certifications
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robinrajinfo&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinrajinfo&layout=compact&theme=tokyonight" />
-</p>
+[![Data Science Certification](https://img.shields.io/badge/Certified%20Data%20Scientist-%230073C9?style=for-the-badge&logo=python&logoColor=white)](https://link-to-certification.com)
+[![Machine Learning Specialist](https://img.shields.io/badge/ML%20Specialist-%230D4C6B?style=for-the-badge&logo=machine-learning&logoColor=white)](https://link-to-certification.com)
 
----
+### 📝 Personal Blog
+
+Feel free to check out my [Blog](https://yourblog.com) for more insights on Data Science and AI.
+
+### 🌍 Social Media
+
+- [Twitter](https://twitter.com/yourusername)
+- [Instagram](https://instagram.com/yourusername)
+- [YouTube](https://youtube.com/yourchannel)
+
+### 🌟 Favourite Quote
+
+> "The only way to do great work is to love what you do." – Steve Jobs
+
+
+### 🎉 Fun Facts About Me
+
+- I love playing chess ♟️ and have a competitive edge.
+- I'm a passionate coffee drinker ☕ (barista level!)
+- Always up for a hiking trip 🏞️
+
+
 
 ### 💬 Let’s Connect
 
