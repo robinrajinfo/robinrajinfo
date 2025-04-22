@@ -51,21 +51,6 @@ Beyond the keyboard, I'm a chess strategist ♟️, coffee aficionado ☕, and h
 
 ---
 
-### 🚀 Featured Projects
-
-Here are a few projects I’m proud of:
-
-- 🧠 **[Activity Recognition for Older Adults](https://github.com/robinrajinfo/Activity-Recognition-Older-Adults)**  
-  A wearable sensor-based ML pipeline to recognize daily activities using classification.
-
-- 🗺️ **[Census to SHRUG Matching](https://github.com/robinrajinfo/Population-Census-to-SHRUG)**  
-  Matching geospatial datasets using statistical and logical transformations.
-
-- 🤖 **[Text Summarizer](https://github.com/robinrajinfo/Text-Summarizer)**  
-  A production-grade NLP project using FastAPI, CI/CD, and modular architecture.
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
