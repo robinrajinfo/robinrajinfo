@@ -82,5 +82,3 @@ Feel free to get in touch if you have any questions.
 📬 **Email:** robinrajinfo@gmail.com
 
 ---
-
-⭐️ *Thank you for visiting! Have a great day.*
