@@ -17,9 +17,11 @@ Beyond the keyboard, I'm a chess strategist ♟️, coffee aficionado ☕, and h
 
 ---
 
+
 ### 📄 Resume
 
-🔗 [Click here to view/download my Resume]([[https://drive.google.com/drive/folders/1Es1TKyia7-JGYtA9ZBVZ37WM7dyxvGud](https://rxresu.me/robinrajinfo/data-scientist-resume-core](https://rxresu.me/robinrajinfo/data-scientist-resume-core))
+🔗 [Click here to view/download my Resume](https://rxresu.me/robinrajinfo/data-scientist-resume-core)
+
 
 ---
 
