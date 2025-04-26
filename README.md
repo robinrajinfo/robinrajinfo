@@ -1,5 +1,4 @@
  <!-- robinrajinfo/README.md -->
-
 <h1 align="center">Hi there 👋, I'm Robin</h1>
 <h3 align="center">Data Scientist | AI Enthusiast | Based in India 🇮🇳</h3>
 
