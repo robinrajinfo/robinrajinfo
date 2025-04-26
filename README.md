@@ -7,13 +7,13 @@
 
 ### 🙋‍♂️ About Me
 
-I'm Robin — a Data Scientist who blends curiosity, creativity, and code to solve real-world problems using data. I’m driven by a deep passion for AI and always eager to explore the latest advancements in Machine Learning, Deep Learning, and automation.
+Data + Curiosity + Creativity = Me, Robin 🚀
 
-My background includes building predictive models, designing end-to-end ML pipelines, and working with real-time data systems.  
+I build predictive models, automate workflows, and scale solutions with real-time AI systems.
 
-Beyond the keyboard, I'm a chess strategist ♟️, coffee aficionado ☕, and hiking enthusiast 🏞️ who believes in lifelong learning and meaningful impact through technology.
+Also: chess strategist ♟️, amateur cosmologist 🔭, and hiking lover 🏞️.
 
-📌 **Current focus:** Leveraging AI for good, automating boring stuff, and building solutions that scale.
+📌 Focus: AI for good | Automation | Scalable impact.
 
 ---
 
