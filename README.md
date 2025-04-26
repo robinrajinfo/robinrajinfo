@@ -56,8 +56,9 @@ Beyond the keyboard, I'm a chess strategist ♟️, coffee aficionado ☕, and h
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robinrajinfo&show_icons=true&theme=radical" alt="Robin's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinrajinfo&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=robinrajinfo&show_icons=true&theme=radical&cache_seconds=1" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinrajinfo&layout=compact&theme=radical&cache_seconds=1" />
+
 </p>
 
 ---
