@@ -41,6 +41,4 @@ Also: chess strategist ♟️, amateur cosmologist 🔭, and hiking lover 🏞�
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/CI/CD-00C7B7?style=for-the-badge&logo=gitlab&logoColor=white" />
- 
 </p>
----
