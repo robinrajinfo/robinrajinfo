@@ -52,26 +52,3 @@ Beyond the keyboard, I'm a chess strategist ♟️, coffee aficionado ☕, and h
 </p>
 
 ---
-
-### 🌟 Favourite Quote
-
-> "The only way to do great work is to love what you do." – Steve Jobs
-
----
-
-### 🎉 Fun Facts About Me
-
-- I love playing chess ♟️ and have a competitive edge.  
-- I'm a passionate coffee drinker ☕ (barista level!)  
-- Always up for a hiking trip 🏞️  
-
----
-
-### 💬 Let’s Connect
-
-Want to collaborate or chat about Data Science?  
-Feel free to get in touch if you have any questions.  
-
-📬 **Email:** robinrajinfo@gmail.com
-
----
