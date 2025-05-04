@@ -1,5 +1,5 @@
- <!-- robinrajinfo/README.md -->
- 
+<!-- robinrajinfo/README.md -->
+
 <h1 align="center">Hi there 👋, I'm Robin</h1>
 <h3 align="center">Data Scientist | AI Enthusiast | Based in India 🇮🇳</h3>
 
@@ -7,7 +7,7 @@
 
 ### 📄 Resume
 
-🔗 [Click here to view/download my Resume](https://rxresu.me/robinrajinfo/data-scientist-resume-core)
+🔗 [Click here to view/download my Resume](https://rxresu.me/builder/cma9jv7yt3elfq9p308b3c1x9)
 
 ---
 
