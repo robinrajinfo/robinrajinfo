@@ -5,10 +5,16 @@
 
 ---
 
-### 📄 Resume
+### 📄 Resume & Links
 
 <p align="left">
   <a href="https://rxresu.me/robinrajinfo/data-scientist-resume-core-1" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Resume-0078D4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume Badge"/>
+  </a>
+  <a href="https://github.com/robinrajinfo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/robinrajinfo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
