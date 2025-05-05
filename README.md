@@ -7,7 +7,7 @@
 
 ### 📄 Resume
 
-🔗 [Click here to view/download my Resume](https://rxresu.me/robinrajinfo/data-scientist-resume-core-0)
+🔗 [Click here to view/download my Resume](https://rxresu.me/robinrajinfo/data-scientist-resume-core-1)
 
 ---
 
